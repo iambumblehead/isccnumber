@@ -1,5 +1,5 @@
-// Filename: ValidateCCNumber.js  
-// Timestamp: 2014.04.22-21:18:58 (last modified)  
+// Filename: isccnumber.js  
+// Timestamp: 2014.04.22-21:50:07 (last modified)  
 // Author(s): Bumblehead (www.bumblehead.com)  
 // Requires: isluhn.js
 //

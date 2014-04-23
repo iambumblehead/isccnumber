@@ -1,6 +1,6 @@
 {
   "name": "isccnumber",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license" : "MIT",
   "readmeFilename": "README.md",
   "description": "Return credit card type if given value is a valid credit card number of known type.",
