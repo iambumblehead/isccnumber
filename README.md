@@ -4,7 +4,7 @@ isccnumber
 
 ### OVERVIEW:
 
-This is an edited version of a script created by David Walsh. David gives me permission publish this with my own changes -visit David's [web site][2].
+This is an edited version of a script created by [David Walsh][2]. David gives me permission publish this with my own changes -visit David's [web site][1].
 
 ```javascript
 isccnumber.visa.test(4222222222222); // true
@@ -25,7 +25,7 @@ The following cards are supported:
 
 Validation is for complete card numbers. Numbers passing the regular expressions are *probably* valid not always.
 
-[http://en.wikipedia.org/wiki/Bank_card_number][3]
+[http://en.wikipedia.org/wiki/Bank_card_number][3]  
 [http://www.websters-online-dictionary.org][4]
 
 
@@ -68,7 +68,7 @@ isccnumber may be downloaded directly or installed through `npm`.
 
 (The MIT License)
 
-Copyright (c) 2013 [Bumblehead][0] <chris@bumblehead.com>
+Copyright (c) 2014 [Bumblehead][0] <chris@bumblehead.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
